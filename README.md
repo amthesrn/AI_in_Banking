@@ -6,7 +6,7 @@ In this project, I have tried to integrate the emerging concept of AI and its ap
 
 In Project_1: Created a simple **Langflow pipeline** for carrying out summarization and recommendation engine for the functioning of a chatbot using the collected Data of financial institutions.
 
-In PRoject_2: Created a recommendation chatbot on Bank statements.
+In Project_2: Created a recommendation chatbot on Bank statements.
 
 for the Backend: **Python**
 
